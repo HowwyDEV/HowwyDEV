@@ -4,4 +4,10 @@
 <p>a low price, if you are interested write to my Discord <b>HowwyDEV#4884<b></p>
 <br><h1> Portfolio</h1>
   <ul><li>Supply SMP</li></ul>
+  <ul><li><a href="https://www.howwydev.glitch.me">HowwyDEV website</a></li></ul>
+  <ul><li>Biom SMP</li></ul>
+  <ul><li>Key SMP</li></ul>
+  <ul><li><a href="packmc.pl">PackMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="globemc.pl">GlobeMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="teletubisiemc.pl">TeletubisieMC.PL (minecraft server)</a></li></ul>
 <br>
