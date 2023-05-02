@@ -5,10 +5,11 @@
 <br><h1> Portfolio</h1>
   <ul><li><a href="https://www.youtube.com/watch?v=gT0-905uL_M&t=29s">Veit - SPEEDRUNER vs ŁOWCY, ale mam JAJKA TNT w Minecraft</a></li></ul>
   <ul><li>Supply SMP</li></ul>
-  <ul><li><a href="https://www.howwydev.glitch.me">HowwyDEV website</a></li></ul>
+  <ul><li><a href="https://www.howwydev.glitch.me">HowwyDEV.PL (website)</a></li></ul>
   <ul><li>Biom SMP</li></ul>
   <ul><li>Key SMP</li></ul>
   <ul><li><a href="packmc.pl">PackMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="">Erykson - 50 GRACZY SYMULUJE WOJNĘ w MINECRAFT!
   <ul><li><a href="globemc.pl">GlobeMC.PL (minecraft server)</a></li></ul>
   <ul><li><a href="teletubisiemc.pl">TeletubisieMC.PL (minecraft server)</a></li></ul>
 <br>
