@@ -8,8 +8,8 @@
   <ul><li><a href="https://www.howwydev.glitch.me">HowwyDEV.PL (website)</a></li></ul>
   <ul><li>Biom SMP</li></ul>
   <ul><li>Key SMP</li></ul>
-  <ul><li><a href="packmc.pl">PackMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="hhtps://packmc.pl">PackMC.PL (minecraft server)</a></li></ul>
   <ul><li><a href="">Erykson - 50 GRACZY SYMULUJE WOJNĘ w MINECRAFT!</li></ul>
-  <ul><li><a href="globemc.pl">GlobeMC.PL (minecraft server)</a></li></ul>
-  <ul><li><a href="teletubisiemc.pl">TeletubisieMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="https://globemc.pl">GlobeMC.PL (minecraft server)</a></li></ul>
+  <ul><li><a href="https://teletubisiemc.pl">TeletubisieMC.PL (minecraft server)</a></li></ul>
 <br>
